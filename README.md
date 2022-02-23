@@ -1,5 +1,8 @@
 # Twig Navigation Extension
 
+**This package is abandoned and no longer maintained. Please use https://github.com/m2mtech/ux-navigation instead.** 
+
+
 [![Author](https://img.shields.io/badge/author-@m2mtech-blue.svg?style=flat-square)](http://www.m2m.at)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
